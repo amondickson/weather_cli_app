@@ -1,0 +1,6 @@
+*.env
+/build/
+*weather.spec
+/Scripts/
+*pyvenv.cfg
+/Lib/
